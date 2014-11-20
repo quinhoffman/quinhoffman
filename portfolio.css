@@ -5,32 +5,38 @@ body {
 	}
 	
 h1 {
+	font-family: Helvetica;
 	font-size:32px;
 	color:#006600;
 	background-color:#222222;
 	}
 	
 h2 {
+	font-family: Helvetica;
 	font-size:28px;
 	color:#336699;
 	background-color:#222222;
 	}
 h3 {
+	font-family: Helvetica;
 	font-size:24px;
 	color:#22ffff;
 	background-color:#222222;
 	}
 h4, h5, h6 {
+	font-family: Helvetica;
 	font-size:18px;
 	color:#ff88ff;
 	background-color:#222222;
 	}
 
 a {
+	font-family: Helvetica;
 	text-decoration:none;
 	color:#ffffff;
 	}
 	
 a:hover {
+	font-family: Helvetica;
 	color:#00ff00;
 	}
