@@ -4,37 +4,12 @@ body {
 	color:#c0c0c0;
 }
 	
-body header h1 {
+h1 {
 	font-family: Helvetica;
 	font-size:32px;
-	background-color:#222222;
-}
-	
-h2 {
-	font-size:28px;
-	color:#336699;
-	background-color:#222222;
-}
-h3 {
-	font-size:24px;
-	color:#22ffff;
-	background-color:#222222;
-}
-h4, h5, h6 {
-	font-size:18px;
-	color:#ff88ff;
 	background-color:#222222;
 }
 
 footer p{
 	font-family: Helvetica;
-}
-
-a {
-	text-decoration:none;
-	color:#ffffff;
-}
-	
-a:hover {
-	color:#00ff00;
 }
