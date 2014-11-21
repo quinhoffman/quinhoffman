@@ -12,6 +12,10 @@ a:visited {
 	color: #c0c0c0;
 }
 
+span {
+	text-align: center;
+}
+
 body {
 	font-family: Helvetica;
 	background-color:#000000;
