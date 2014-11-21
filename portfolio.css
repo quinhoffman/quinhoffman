@@ -1,3 +1,16 @@
+a:link {
+	color: #c0c0c0;
+	font-family: Helvetica;
+	text-decoration: none;
+}
+
+a:hover {
+	color:;
+}
+
+
+
+
 body {
 	text-align: center;
 	font-family: Helvetica;
