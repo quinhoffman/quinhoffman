@@ -37,10 +37,11 @@ body {
 }
 
 img {
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 0;
+	margin-right: 0;
 	width: 1000px;
 	height: 1290px;
+	display: block;
 }
 
 p {
