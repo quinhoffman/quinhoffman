@@ -1,7 +1,8 @@
 #nav {
-	width:750px;
+	width:1500px;
 	margin:0 auto;
 	list-style:none;
+	font-size: 19px;
 }
 
 #nav li{
@@ -11,7 +12,7 @@
 #nav a{
 	display:block;
 	text-align:center;
-	width:150px;
+	width:300px;
 	text-decoration:none; 
 }
 
