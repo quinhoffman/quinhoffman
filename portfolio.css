@@ -8,12 +8,6 @@ a:hover {
 	color:;
 }
 
-* {
-	margin-left: 100px;
-	margin-right: 100px;
-}
-
-
 body {
 	font-family: Helvetica;
 	background-color:#000000;
@@ -37,13 +31,14 @@ li {
 }
 
 div p {
+	margin-left: 100px;
+	margin-right: 100px;
 	text-align: left;
 }
 
 p {
+	margin-left: 100px;
+	margin-right: 100px;
 	text-align: center;
-}
-
-footer p{
 	font-family: Helvetica;
 }
