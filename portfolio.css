@@ -24,11 +24,13 @@ ul {
 	padding: 0;
     	display: inline-block;
     	font-size: 18px;
+    	white-space: nowrap;
 }
 
 li {
-	padding: 10;
-	display: inline;
+	width: 100%;
+	list-style-type: none;
+	display: inline-block;
 }
 
 footer p{
