@@ -18,20 +18,21 @@ body {
 	color:#141414;
 }
 
-ul {
-	text-align: left;
-	list-style-type: none;
-    	margin-left: 205px;
-	padding: 0;
-	display: inline-block;
-    	font-size: 18px;
-    	white-space: nowrap;
+#nav {
+	width:750px;
+	margin:0 auto;
+	list-style:none;
 }
 
-li {
-	width: 100%;
-	list-style-type: none;
-	display: inline-block;
+#nav li{
+	float:left;
+}
+
+#nav a{
+	display:block;
+	text-align:center;
+	width:150px;
+	text-decoration:none; 
 }
 
 img {
