@@ -24,6 +24,7 @@ ul {
 	padding: 0;
 	display: inline-block;
     	font-size: 18px;
+    	white-space: nowrap;
 }
 
 li {
