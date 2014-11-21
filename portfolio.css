@@ -23,7 +23,7 @@ a:link {
 }
 
 a:hover {
-	color:;
+	color:#c0c0c0;
 }
 
 a:visited {
@@ -44,15 +44,8 @@ img {
 	display: block;
 }
 
-div p {
-	margin-left: 370px;
-	margin-right: 370px;
-	text-align: left;
-}
-
 p {
-	margin-left: 100px;
-	margin-right: 100px;
+	
 	text-align: center;
 	font-family: Helvetica;
 	color: #595959;
