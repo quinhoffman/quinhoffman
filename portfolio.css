@@ -1,8 +1,8 @@
 #nav {
-	width:900px;
+	width:750px;
 	margin:0 auto;
 	list-style:none;
-	font-size: 20px;
+	font-size: 19px;
 }
 
 #nav li{
@@ -12,7 +12,7 @@
 #nav a{
 	display:block;
 	text-align:center;
-	width:150px;
+	width:400px;
 	text-decoration:none; 
 }
 
