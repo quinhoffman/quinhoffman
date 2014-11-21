@@ -10,11 +10,6 @@ ul {
     padding: 0;
 }
 
-a {
-    display: block;
-    width: 60px;
-}
-
 li {
     display: inline;
 }
