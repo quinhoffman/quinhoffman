@@ -1,4 +1,5 @@
 body {
+	text-align: center;
 	font-family: Helvetica;
 	background-color:#000000;
 	color:#c0c0c0;
@@ -13,13 +14,6 @@ ul {
 
 li {
     display: inline;
-}
-
-.center {
-    margin-left: auto;
-    margin-right: auto;
-    width: 70%;
-    background-color: #b0e0e6;
 }
 
 footer p{
