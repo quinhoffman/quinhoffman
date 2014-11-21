@@ -1,0 +1,52 @@
+a:link {
+	color: #c0c0c0;
+	font-family: Helvetica;
+	text-decoration: none;
+}
+
+a:hover {
+	color:;
+}
+
+a:visited {
+	color: #c0c0c0;
+}
+
+body {
+	font-family: Helvetica;
+	background-color:#000000;
+	color:#c0c0c0;
+}
+
+ul {
+	text-align: left;
+	list-style-type: none;
+    	margin-left: 245px;
+	padding: 0;
+	display: inline-block;
+    	font-size: 18px;
+    	white-space: nowrap;
+}
+
+li {
+	width: 100%;
+	list-style-type: none;
+	display: inline-block;
+}
+
+img {
+	margin-left: 350px;
+}
+
+div p {
+	margin-left: 370px;
+	margin-right: 370px;
+	text-align: left;
+}
+
+p {
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+	font-family: Helvetica;
+}
