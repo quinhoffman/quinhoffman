@@ -37,7 +37,7 @@ body {
 }
 
 img {
-	margin-right: 25%;
+	margin: auto;
 	width: 1000px;
 	height: 1290px;
 	display: block;
