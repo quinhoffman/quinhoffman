@@ -17,7 +17,7 @@ body {
 ul {
 	text-align: left;
 	list-style-type: none;
-    	margin-left: 240px;
+    	margin-left: 245px;
 	padding: 0;
 	display: inline-block;
     	font-size: 18px;
@@ -28,6 +28,10 @@ li {
 	width: 100%;
 	list-style-type: none;
 	display: inline-block;
+}
+
+img {
+	margin-left: 350px;
 }
 
 div p {
