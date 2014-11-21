@@ -21,12 +21,13 @@ body {
 ul {
 	list-style-type: none;
     	margin: 0;
-	padding: 10;
+	padding: 0;
     	display: inline-block;
     	font-size: 18px;
 }
 
 li {
+	padding: 10;
 	display: inline;
 }
 
