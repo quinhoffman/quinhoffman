@@ -1,6 +1,6 @@
 #nav {
 	width:1500px;
-	margin:0 auto;
+	margin: auto;
 	list-style:none;
 	font-size: 19px;
 }
@@ -37,7 +37,8 @@ body {
 }
 
 img {
-	margin-left: 200px;
+	margin-left: auto;
+	margin-right: auto;
 	width: 1000px;
 	height: 1290px;
 	display: block;
