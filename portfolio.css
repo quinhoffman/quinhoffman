@@ -32,11 +32,12 @@ a:visited {
 
 ul{
 	text-decoration: none;
+	margin-left: 175px;
 }
 
 div{
 	text-decoration: none;
-	text-align: center;
+	text-align: left;
 }
 
 body {
