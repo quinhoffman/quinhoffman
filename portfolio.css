@@ -30,6 +30,15 @@ a:visited {
 	color: #c0c0c0;
 }
 
+ul{
+	text-decoration: none;
+}
+
+div{
+	text-decoration: none;
+	text-align: center;
+}
+
 body {
 	font-family: Helvetica;
 	background-color:#FFFFFF;
