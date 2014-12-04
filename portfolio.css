@@ -30,8 +30,11 @@ a:visited {
 	color: #c0c0c0;
 }
 
+li{
+	list-style-type: none;	
+}
+
 ul{
-	list-style-type: none;
 	margin-left: 175px;
 }
 
