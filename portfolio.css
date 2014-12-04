@@ -31,12 +31,11 @@ a:visited {
 }
 
 ul{
-	text-decoration: none;
+	list-style-type: none;
 	margin-left: 175px;
 }
 
 div{
-	text-decoration: none;
 	text-align: left;
 }
 
